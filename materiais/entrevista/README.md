@@ -3,31 +3,24 @@
 **Simulador de primeira entrevista de emprego**  
 Material complementar de *O Manual para o Primeiro Emprego*.
 
-Uma pergunta por vez. Feedback respeitoso. Uma nova tentativa com suas próprias palavras.
+## Como usar
 
-## Comece aqui
+Copie o prompt completo abaixo e cole em uma nova conversa no ChatGPT. Responda por voz, se o recurso estiver disponível e você quiser, ou por texto. Uma pergunta por vez, feedback e espaço para tentar novamente com suas próprias palavras.
 
-1. [Abra o prompt completo](prompt-entrevista.txt) e copie todo o texto. Ele também está disponível abaixo.
-2. Cole em uma nova conversa no [ChatGPT](https://chatgpt.com/).
-3. Responda por voz, se o recurso estiver disponível e você quiser. Digitar também vale.
-4. Use o feedback para desenvolver sua própria resposta. Não compartilhe documentos ou dados de contato.
+O material destinado ao e-book contém o prompt integral, sem links ou QR Code. Não compartilhe documentos ou dados de contato. A simulação não representa uma seleção real nem garante contratação.
 
-A simulação é uma prática: não representa uma seleção real nem garante contratação.
+## Arquivos para a autora
 
-## Arquivos
-
-- [Guia artístico em PDF — 3 páginas](guia-simulador.pdf)
-- [Material editável em Word, incluindo o prompt](simulador-editavel.docx)
+- [Guia artístico em PDF — 4 páginas, com prompt completo](guia-simulador.pdf)
+- [Material editável em Word](simulador-editavel.docx)
 - [Prompt em texto](prompt-entrevista.txt)
-- [QR Code para esta página](qr-simulador.png)
 
-No celular, se o arquivo não abrir na visualização do GitHub, use o botão de download.
-
-## Prévia do guia
+## Prévia
 
 ![Como praticar](pagina-1.png)
 ![Quatro perguntas](pagina-2.png)
-![Acesso ao material](pagina-3.png)
+![Prompt para copiar](pagina-3.png)
+![Continuação do prompt](pagina-4.png)
 
 ## Prompt completo para copiar
 
@@ -56,6 +49,4 @@ Comece agora com uma breve acolhida, lembre que posso usar voz ou texto e faça 
 
 ## Nota para a autora
 
-Primeira versão para aprovação. O QR Code aponta para esta página no GitHub; não inicia uma conversa automaticamente. Se o repositório for privado, os leitores precisarão de acesso. Antes da distribuição do e-book, teste em um navegador sem login e, se necessário, escolha uma página pública e regenere o QR Code. Mantenha este caminho disponível para preservar os links.
-
-As instruções de uma IA não garantem que ela cumpra todas as regras em todas as sessões. O fluxo do prompt foi revisado, mas não foi executado em uma sessão externa do ChatGPT. O PDF e o link do QR Code foram conferidos na geração.
+Versão ajustada: removidos o QR Code e os links do material do leitor. O PDF e o Word incluem o texto integral. O fluxo do prompt foi revisado; não foi executado em uma sessão externa do ChatGPT. As instruções de uma IA não garantem o cumprimento de todas as regras em todas as sessões.
