@@ -1,0 +1,15 @@
+COMO PREENCHER SEU CURRÍCULO
+
+Abra modelo-curriculo.docx no Word, LibreOffice ou Google Docs e substitua os textos entre colchetes. O PDF apresenta o modelo para consulta ou impressão; a edição é feita no DOCX.
+
+• Use contatos que você consulta com frequência e um e-mail simples.
+• Em CNH, informe a categoria somente se possuir habilitação. Caso contrário, apague esse campo.
+• No objetivo, indique uma função ou área compatível com a vaga.
+• Na formação, informe se está cursando ou se já concluiu e o ano correspondente.
+• Liste apenas cursos e conhecimentos que realmente possui. Não invente certificados ou níveis de domínio.
+• Na última seção, escolha UMA alternativa e apague a outra. Com experiência, use o título “Experiência profissional” e descreva função, local, período e atividades. Sem experiência, use “Apresentação pessoal” e escreva 2 ou 3 frases honestas, com um exemplo concreto da sua rotina ou dos estudos.
+• Apague linhas que não utilizar, revise a ortografia e confira se o documento continua em uma página. Exporte o arquivo preenchido para PDF antes de enviá-lo.
+
+O exemplo é inteiramente fictício, incluindo escola, curso, cidade e contatos. Ele ilustra como preencher o modelo; não deve ser copiado como se descrevesse sua trajetória. O telefone é propositalmente inválido e o e-mail usa o domínio reservado example.com.
+
+Nota para a autora: o campo de data de nascimento foi mantido conforme solicitado. A identidade visual usa branco, verde-oliva discreto e divisórias finas, com texto em uma coluna para facilitar leitura e edição. Não foram incluídos RG, CPF, estado civil, filhos, foto ou endereço completo.
